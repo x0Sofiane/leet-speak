@@ -1,5 +1,5 @@
 
-LeetSpeak Converter - Projet Universitaire
+LeetSpeak Converter - Projet Lycée
 =========================================
 
 Un projet Python permettant la conversion bidirectionnelle entre du texte classique (humain)
